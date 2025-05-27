@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders (common names)
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# Environment variables file
+.env
+
+# Pytest cache
+.pytest_cache/
